@@ -16,6 +16,7 @@
     "config": {
         "bin-dir": "bin"
     },
+    "bin": ["bin"],
     "autoload": {
         "psr-0": {
             "PHPSpec2Playground": "src/",

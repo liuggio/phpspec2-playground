@@ -28,7 +28,7 @@ php composer.phar install --dev
 - This will give you proper results:
 
 ``` bash
-vendor/bin/phpspec run -v -f prettify
+bin/phpspec run -v -f prettify
 ```
 
 
@@ -38,6 +38,6 @@ vendor/bin/phpspec run -v -f prettify
 
 2. Singleton
 
-
+3.
 
 

@@ -1,5 +1,5 @@
 {
-    "hash": "97c263504befc9a4cccdaac13a064b5d",
+    "hash": "c39dea08b065c51dcb2c28983411329b",
     "packages": [
 
     ],
@@ -98,12 +98,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpspec/phpspec2.git",
-                "reference": "a97b6adbb0ab85d9b9cdd1d242e140302860cfed"
+                "reference": "addcda7f3e2b339a54ff0a3d13859cd500702249"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/phpspec/phpspec2/archive/a97b6adbb0ab85d9b9cdd1d242e140302860cfed.zip",
-                "reference": "a97b6adbb0ab85d9b9cdd1d242e140302860cfed",
+                "url": "https://github.com/phpspec/phpspec2/archive/addcda7f3e2b339a54ff0a3d13859cd500702249.zip",
+                "reference": "addcda7f3e2b339a54ff0a3d13859cd500702249",
                 "shasum": ""
             },
             "require": {
@@ -115,7 +115,7 @@
                 "symfony/finder": ">=2.1,<3.0",
                 "symfony/yaml": ">=2.1,<3.0"
             },
-            "time": "2012-12-18 09:55:12",
+            "time": "2013-01-02 22:11:19",
             "bin": [
                 "bin/phpspec"
             ],
@@ -165,18 +165,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console",
-                "reference": "388ea8dbc1b3e1f96721e2799eb2d037e411a281"
+                "reference": "d83799fe3eff208c09436c062ea59f251f6bb7d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/symfony/Console/archive/388ea8dbc1b3e1f96721e2799eb2d037e411a281.zip",
-                "reference": "388ea8dbc1b3e1f96721e2799eb2d037e411a281",
+                "url": "https://github.com/symfony/Console/archive/d83799fe3eff208c09436c062ea59f251f6bb7d9.zip",
+                "reference": "d83799fe3eff208c09436c062ea59f251f6bb7d9",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
-            "time": "2012-12-19 07:09:49",
+            "time": "2013-01-03 22:03:04",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -268,18 +268,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Finder",
-                "reference": "bd672f52f4336df87e665f456c3be1605a2ac75a"
+                "reference": "b43123d66d1426b9699abf25a9d581e4c5f5f158"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/symfony/Finder/archive/bd672f52f4336df87e665f456c3be1605a2ac75a.zip",
-                "reference": "bd672f52f4336df87e665f456c3be1605a2ac75a",
+                "url": "https://github.com/symfony/Finder/archive/b43123d66d1426b9699abf25a9d581e4c5f5f158.zip",
+                "reference": "b43123d66d1426b9699abf25a9d581e4c5f5f158",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
-            "time": "2012-12-20 07:41:17",
+            "time": "2013-01-02 11:29:42",
             "type": "library",
             "extra": {
                 "branch-alias": {
