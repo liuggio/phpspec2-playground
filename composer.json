@@ -1,0 +1,26 @@
+{
+    "name": "liuggio/phpspec2-playground",
+    "description": "just a place to play as a kid, with phpspec2",
+    "require": {
+        "php": ">=5.2"
+    },
+    "require-dev": {
+        "phpspec/phpspec2": "dev-develop"
+    },
+    "authors": [
+        {
+            "name": "Giulio De Donato",
+            "email": "liuggio@gmail.com"
+        }
+    ],
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": {
+            "PHPSpec2Playground": "src/",
+            "spec": "."
+        }
+    },
+    "minimum-stability": "dev"
+}
