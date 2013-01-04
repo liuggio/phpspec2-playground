@@ -1,7 +1,7 @@
 PHPSpec2 Playground
 ===================
 
-Behaviour tested on Travis: [![Build Status](https://travis-ci.org/liuggio/phpspec2-playground.png)(https://travis-ci.org/liuggio/phpspec2-playground)
+Behaviour tested on Travis: [![Build Status](https://travis-ci.org/liuggio/phpspec2-playground.png)](https://travis-ci.org/liuggio/phpspec2-playground)
 
 PHPSpec2 by examples. Just a place to play as a kid, with BDD in PHP
 
