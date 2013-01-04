@@ -1,8 +1,9 @@
 PHPSpec2 Playground
 ===================
 
-PHPSpec2 by examples. Just a place to play as a kid, with BDD in PHP
+Behaviour tested on Travis: [![Build Status](https://travis-ci.org/liuggio/phpspec2-playground.png)](https://travis-ci.org/liuggio/phpspec2-playground])
 
+PHPSpec2 by examples. Just a place to play as a kid, with BDD in PHP
 
 The idea behind this repository is to give more visibility to the BDD and in particular PHPSpec2 by examples.
 
