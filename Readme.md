@@ -35,10 +35,11 @@ bin/phpspec run -v -f prettify
 
 ## Examples
 
-1. Factory
+1. Factory Pattern
 
-2. Singleton
+2. Singleton Pattern
 
-3.
+3. Composite Pattern
+
 
 
