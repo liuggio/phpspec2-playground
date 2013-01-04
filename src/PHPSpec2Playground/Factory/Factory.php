@@ -7,8 +7,6 @@ class Factory
 {
     public static function createEntity($type = 'a')
     {
-
-
         $entity = null;
         switch (strtolower($type)) {
             case "a":

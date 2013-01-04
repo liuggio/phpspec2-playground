@@ -28,6 +28,16 @@ php composer.phar install --dev
 - This will give you proper results:
 
 ``` bash
-phpspec run -v
+vendor/bin/phpspec run -v -f prettify
 ```
+
+
+## Examples
+
+1. Factory
+
+2. Singleton
+
+
+
 
