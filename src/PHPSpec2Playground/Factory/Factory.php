@@ -20,7 +20,6 @@ class Factory
                 break;
         }
         return $entity;
-
     }
 
 }

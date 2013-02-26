@@ -4,23 +4,21 @@
     "require": {
         "php": ">=5.2"
     },
-    "require-dev": {
-        "phpspec/phpspec2": "dev-develop"
-    },
     "authors": [
         {
             "name": "Giulio De Donato",
             "email": "liuggio@gmail.com"
         }
     ],
+    "require-dev": {
+        "phpspec/phpspec2": "*"
+    },
     "config": {
         "bin-dir": "bin"
     },
-    "bin": ["bin"],
     "autoload": {
         "psr-0": {
-            "PHPSpec2Playground": "src/",
-            "spec": "."
+            "": "src"
         }
     },
     "minimum-stability": "dev"

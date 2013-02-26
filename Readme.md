@@ -10,6 +10,11 @@ The idea behind this repository is to give more visibility to the BDD and in par
 This library presents several design patterns tested with the behavior driven developement,
 you will appreciate the differences with the xUnit world.
 
+## Theory
+
+[Spec BDD with phpspec](http://www.phpspec.net/)
+
+[phpunit-vs-phpspec-theory-on-behaviour-driven-development](http://welcometothebundle.com/phpunit-vs-phpspec-theory-on-behaviour-driven-development/)
 
 ## Installation
 
@@ -33,13 +38,20 @@ bin/phpspec run -v -f prettify
 ```
 
 
-## Examples
+## Design Pattern
 
-1. Factory Pattern
 
-2. Singleton Pattern
+1. Singleton Pattern
+
+   How start with simple should be.
+
+2. Factory Pattern
+
+   You could see how to test with Throw behaviour.
 
 3. Composite Pattern
 
+   You could see how mock with input variable.
 
+4.
 
